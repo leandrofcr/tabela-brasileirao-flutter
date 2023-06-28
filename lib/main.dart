@@ -18,3 +18,13 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+// Container
+// SizedBox
+// Row
+// Column
+// Stack
+// Grid
+// Text
+// ScaldFold
+// Statless  e Statfuls
